@@ -90,7 +90,7 @@ export default function App() {
  _____ _____ _____ _____ 
 |     |   __|     |   | |
 | | | |__   |  |  | | | |
-|_|_|_|_____|_____|_|___|
+|_|_|_|_____|_____|_|___| by pure love from ambales
                 `}
               </div>
               <div className="terminal-text">
