@@ -368,5 +368,7 @@ Character number: `+n.characterNumber},e.prototype.lineNumber=function(){return 
  _____ _____ _____ _____ 
 |     |   __|     |   | |
 | | | |__   |  |  | | | |
-|_|_|_|_____|_____|_|___|
+|_|_|_|_____|_____|_|___| 
+
+by pure ❤ from ambales
                 `}),ct.jsxs("div",{className:"terminal-text",children:[ct.jsx("span",{className:"prompt",children:"root@system"}),ct.jsx("span",{className:"path",children:"~/json-converter"}),ct.jsx("span",{className:"cursor",children:"█"})]})]})]})}),ct.jsxs("div",{className:"space-y-8",children:[ct.jsx(ow,{dragActive:e,onDrag:u,onDrop:c,onFileChange:f}),a&&ct.jsxs("div",{className:"terminal-error",children:[ct.jsx("span",{className:"error-prefix",children:"[ERROR]"})," ",a]}),t&&ct.jsxs("div",{className:"space-y-8",children:[ct.jsx(uw,{onClick:h}),ct.jsx(sw,{data:t})]})]})]})})}const zv=document.getElementById("root");zv&&nw.createRoot(zv).render(ct.jsx(Kb.StrictMode,{children:ct.jsx(b6,{})}));
